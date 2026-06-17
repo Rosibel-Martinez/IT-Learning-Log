@@ -79,3 +79,61 @@ Today's Lesson:
 
 
 
+---
+
+   # Day 2 June 17, 2026
+
+   ## File System Basics
+
+   ### What I learn:
+
+   - A file stores information ex: image.jpg, music.mp3 ,.... etc.
+     
+   - A folder holds files and subfolders just like a everyday drawer where the drawer itself is a folder and the clothes inside are diffrent files.
+
+   - A path tells the system where something is located like a GPS tells us where we are located or a place we want to go is located.
+
+   - The C: drive is the main storage of a computer where window is install.
+
+   ### Commands Practise Today
+
+   'cd' ---> shows current folders in the currect directory
+   'dir' ---> list files and folders in the currect directory
+   'tree' ---> Shows the folder structure
+   'mkdir' ---> creates a new folder
+   'cd ..' follow with cd ---> moves back one level directory
+
+### Screenshots 
+
+#### Commands
+
+#### CD Command
+
+![CD](lab2-cd.png)
+
+#### DIR Command
+
+![DIR](lab2-dir.png)
+
+#### TREE Command
+
+![TREE](lab2-tree.png)
+
+#### MKDIR Command
+
+![MKDIR](lab2-mkdir.png)
+
+#### Creating Subfolders
+
+![Subfolders](lab2-create-subfolders.png)
+
+#### Folder Structure
+
+![Structure](lab2-IT-Lab-structure.png)
+
+#### Returning to Parent Folder/ Moved back one level Directory
+
+![CD Back](lab2-return-to-the-first-folder.png)
+
+
+
