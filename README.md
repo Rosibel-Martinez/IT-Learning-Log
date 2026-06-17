@@ -6,23 +6,18 @@ This repository logs my daily work, hands-on labs, and configuration files as I 
 ## Day 1   June 14, 2025
 
 Today's Lesson:
-  **What a CPU is**
-  
-       - It is the brain of the computer, processing instructions and performing calculations needed to run programs.
+   - What a CPU is:
+        It is the brain of the computer, processing instructions and performing calculations needed to run programs.
+
+   - What RAM is:
+        The computer's short-term memory that temporarily stores programs and data currently being used.
        
-  **What RAM is**
-  
-       - The computer's short-term memory that temporarily stores programs and data currently being used.
+   - What an IP address is:
+        A unique address assigned to a device on a network so it can send and receive data.
        
-  **What an IP address is**
-  
-       - A unique address assigned to a device on a network so it can send and receive data.
+   - What DNS does
+        Converts websites names like google.com and youtube.com into IP addresses that computer understands.
        
-  **What DNS does**
-  
-       - Converts websites names like google.com and youtube.com into IP addresses that computer understands.
-       
-  **How to use ping, nslookup, and tracert commands**
 
 ### Commands Practise Today
 
@@ -39,10 +34,48 @@ Today's Lesson:
    'tracert' ---> it shows every stop(hop) the data takes to reach a website
 
 
-### My system
+#### My system
 
   - CPU: Intel i5-1335U
     
   - RAM: 8 GB DDR4
 
-  - IPv4: 10.0.0.154
+  - IPv4: 10.0.0.XXX
+
+#### Screenshots
+
+#### Hostname and Whoami
+![Hostname and Whoami](Lab1-hostname-whoami.png)
+
+#### IP Configuration
+![IP Configuration](lab1-ipconfig.png)
+
+#### DNS Lookup
+![DNS Lookup](lab1-nslookup-google.png)
+
+#### CPU Performance
+![CPU Performance](lab1-performance-cpu.png)
+
+#### Disk Performance
+![Disk Performance](lab1-performance-disk.png)
+
+#### Memory Performance
+![Memory Performance](lab1-performance-memory.png)
+
+#### Wi-Fi Performance
+![Wi-Fi Performance](lab1-performance-wifi.png)
+
+#### Ping Test
+![Ping Test](lab1-ping-google.png)
+
+#### Running Processes (CPU)
+![Processes CPU](lab1-processes-cpu.png)
+
+#### Running Processes (Memory)
+![Processes Memory](lab1processes-memory.png)
+
+#### Traceroute
+![Traceroute](lab1-tracert-google.png)
+
+
+
